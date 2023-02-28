@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>个性签名：<?php echo ((isset($sign) && ($sign !== ""))?($sign):'这个家伙很懒，什么都没留下'); ?>

@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?><div>导航信息 首页 新闻</div>
